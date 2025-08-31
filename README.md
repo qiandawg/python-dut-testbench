@@ -1,4 +1,4 @@
-# Project Skeleton
+# PLC as a DUT with Python testbench template
 
 This repository contains the template for a Python project skeleton set up to test Industrial Controllers (PLC) via OPCUA, with **pytest** testing and reporting.  
 Currently, it only includes placeholder tests with simple `assert` statements — intended as a template.
